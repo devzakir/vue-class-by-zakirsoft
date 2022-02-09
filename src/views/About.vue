@@ -1,16 +1,12 @@
 <template>
   <div>
-    <rest-api />
+    <h2>About Page</h2>
   </div>
 </template>
 
 <script>
-import RestApi from "./components/RestApi.vue"
-
 export default {
-  components: {
-    RestApi
-  }
+
 }
 </script>
 
